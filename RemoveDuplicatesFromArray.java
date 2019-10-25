@@ -1,5 +1,5 @@
 /**
-Purpose: How do you remove duplicates from an array in place?
+Purpose: How do you remove duplicates from an int array in place?
 */
 
 package za.co.macbytes.coding.exercises;
