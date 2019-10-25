@@ -1,5 +1,5 @@
 /**
-Purpose: How do you reverse an array in place in Java?
+Purpose: How do you reverse an int array in place in Java?
 */
 
 package za.co.macbytes.coding.exercises;
