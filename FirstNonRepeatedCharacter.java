@@ -1,3 +1,7 @@
+/**
+   Purposose: How do you print the first non-repeated character from a string?
+*/
+
 package za.co.macbytes.coding.exercises;
 
 import java.util.LinkedHashMap;
