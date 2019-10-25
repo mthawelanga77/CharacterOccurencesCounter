@@ -1,3 +1,7 @@
+/**
+Purpose: How do you swap two numbers without using the third variable?
+*/
+
 package za.co.macbytes.coding.exercises;
 
 public class SwapNumbersWithoutThirdVariable {
