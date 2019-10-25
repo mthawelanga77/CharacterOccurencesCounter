@@ -1,3 +1,7 @@
+/**
+   Purposose: How do you count the occurrence of a given character in a string? 
+*/
+
 package za.co.macbytes.coding.exercises;
 
 import static java.lang.Character.toLowerCase;
