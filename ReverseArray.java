@@ -1,3 +1,7 @@
+/**
+Purpose: How do you reverse an array in place in Java?
+*/
+
 package za.co.macbytes.coding.exercises;
 
 import java.util.Arrays;
