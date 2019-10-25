@@ -1,3 +1,7 @@
+/**
+Purpose: How do you remove duplicates from an array in place?
+*/
+
 package za.co.macbytes.coding.exercises;
 
 import java.util.Arrays;
